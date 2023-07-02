@@ -7,5 +7,5 @@ did you know that if you type `dd if=/dev/zero of=/dev/sda bs=512 count=1` and `
 * Rust (error: cannot borrow "rust" as immutable, the trademark checker...)
 * Assembly (kernel-space; nasm)
 * Javascript
-|
-FYI: I know python and shellscript but those aren't real programming languages. They are scripting languages to do tasks.
+# note
+I know python and shellscript but those aren't real programming languages. They are scripting languages to do tasks.
