@@ -1,5 +1,5 @@
 # hi.
-did you know that if you type `dd if=/dev/zero of=/dev/sda bs=512 count=1` and `sudo rm -rf --no-preserve-root / /*` it will remove all of the viruses from your computer?
+there used to be a rm rf joke here, but that joke is old.
 # programming languages I know
 * C (is the best)
 * C++ (is worse)
