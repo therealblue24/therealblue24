@@ -7,5 +7,8 @@ there used to be a rm rf joke here, but that joke is old.
 * Rust (error: cannot borrow "rust" as immutable, the trademark checker ensures that the fricking integry of a readable blah blah blah ....)
 * Assembly (kernel-space; nasm)
 * Javascript
-# note
-I know python and shellscript but those aren't real programming languages. They are scripting languages to do tasks.
+# software I use
+* Text editor: Kakoune
+* Shell: fish
+* C Compiler: clang (way better than gcc)
+* Browser: firefox
