@@ -10,6 +10,6 @@ I am the laziest C dev on planet earth. also clang is better than gcc. _fight me
 ## Objectively Superior Software
 
 - clang
-- `ed`
+- `ed` (helix is 2nd place tho)
 - bzip2
 - fish
