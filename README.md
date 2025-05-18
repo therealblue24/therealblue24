@@ -7,9 +7,16 @@ I am the laziest C dev on planet earth. also clang is better than gcc. _fight me
 - [D r i f t](https://github.com/therealblue24/drift), landmass generator & tectonic simulator made in C. The most side side project ever.
 - [SanityGL](https://github.com/therealblue24/sanity_gl), a quick python script to turn `glFunctionNamesLikeThis` into `gl_function_names_like_this`.
 
+## Projects I am working on
+- wzip, Work in Progress compressor, not open source yet.
+- [stac](https://github.com/therealblue24/stac), silly and simple stack-based programming language
+
 ## Objectively Superior Software
 
 - clang
 - `ed` (helix is 2nd place tho)
 - bzip2
 - fish
+- ghostty
+- firefox
+- qbe
