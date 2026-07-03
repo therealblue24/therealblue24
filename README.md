@@ -1,5 +1,5 @@
 # Hello
-I am the laziest C dev on planet earth. also clang is better than gcc. _fight me._
+I am the laziest C dev on planet earth. also clang is better than gcc.
 
 ## Notable projects
 
@@ -9,7 +9,8 @@ I am the laziest C dev on planet earth. also clang is better than gcc. _fight me
 
 ## Projects I am working on
 - wzip, Work in Progress compressor, not open source yet.
-- [stac](https://github.com/therealblue24/stac), silly and simple stack-based programming language
+> `wzip`'s code is basically 100% finished but I am too lazy to integrate it all into a CLI. Expect that soon however
+- [wcc](https://github.com/therealblue24/wcc), C compiler based off of `chibicc` with its own optimizing IR backend
 
 ## Objectively Superior Software
 
