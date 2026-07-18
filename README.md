@@ -9,7 +9,6 @@ I am the laziest C dev on planet earth. also clang is better than gcc.
 
 ## Projects I am working on
 - wzip, Work in Progress compressor, not open source yet.
-> `wzip`'s code is basically 100% finished but I am too lazy to integrate it all into a CLI. Expect that soon however
 - [wcc](https://github.com/therealblue24/wcc), C compiler based off of `chibicc` with its own optimizing IR backend
 
 ## Objectively Superior Software
